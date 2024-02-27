@@ -1,0 +1,10 @@
+body {
+  padding: 30px;
+}
+.main__text {
+  font-size: 50px;
+}
+.pharagraf__array,
+.pharagraf__result {
+  font-size: 32px;
+}
